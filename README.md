@@ -3,8 +3,8 @@
 Dalam pengerjaan soal ini, saya mengalami kendala dimana json servernya terkadang error. Datanya masuk ke dalam network namun tidak terbaca jika dijalankan. Apakah ada yang pernah mengalami problem seperti ini juga? Dan apakah ada solusi untuk problem yang dialami? 
 
 ## Cara run code: 
-npm install 
-npm start 
+npm install -> 
+npm start ->
 npx json-server --watch data/viewData.json --port 3005
 
 apabila terdapat masalah dalam run project, dapat langsung menghubungi saya melalui WA (087875656213) maupun emai (audia.maharani@binus.ac.id)
