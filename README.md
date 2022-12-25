@@ -7,7 +7,7 @@ npm install ->
 npm start ->
 npx json-server --watch data/viewData.json --port 3005
 
-apabila terdapat masalah dalam run project, dapat langsung menghubungi saya melalui WA (087875656213) maupun emai (audia.maharani@binus.ac.id)
+apabila terdapat masalah dalam run project, dapat langsung menghubungi saya melalui WA (087875656213) maupun email (audia.maharani@binus.ac.id)
 
 
 
